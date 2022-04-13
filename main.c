@@ -827,7 +827,7 @@ int main()
 
                             else{
                                 set_color(RED);
-                                printf("Acest canal nu exista!\n");
+                                printf("Acest canal nu exista!");
                                 set_color(WHITE);
                                 sleep(2);
                             }
