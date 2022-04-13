@@ -1,0 +1,8 @@
+irina.felea irina123 Felea;Irina;21/12/2002;feminin;
+ana.popa anapopa123 Popa;Ana;12/03/2000;feminin;
+iulia.anghel iulia923 Iulia;Anghel;23/04/1999;feminin;
+popescu.andrei andrei9283 Popescu;Andrei;25/11/1998;masculin;
+stan.marian marian3112 Stan;Marian;12/12/1999;masculin;
+morar.alin alin1234 Morar;Alin;12/03/1998;masculin;
+larisa.lazar larisa12 Lazar;Larisa;10/08/2001;feminin;
+anto.balea anto1234 Balea;Antonia;12/06/2002;feminin;
